@@ -1,0 +1,8 @@
+按上方termial 
+New termial 
+複製下面的東西後貼到termial 
+
+cd /Users/test/Desktop/mimi_website
+git add . 
+git commit -m "更新" 
+git push mimi main
